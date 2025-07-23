@@ -53,7 +53,6 @@ The dataset includes records of cable billing and customer details:
 - Due Amount
 - Year and Last Paid Date
 - Customer Status (Active, Suspended, Cancelled)
-- Home Ownership
 
 > Note: The dataset is fictional/simulated and used solely for learning and portfolio purposes.
 

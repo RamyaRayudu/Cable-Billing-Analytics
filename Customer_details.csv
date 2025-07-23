@@ -1,0 +1,207 @@
+SI No,Customer Id,Customer Name,Alias,Status,Address,Area,Phone,STB,VC NUMBER,Due Amount,Monthly Rent,Last Paid Amount,Last Paid Date,Cluster
+1,'C1579970,Vanapalli Devi,వానపల్లి దేవి,Cancelled,W/O Venkatarao 5-63 VELAGATHODU VELAGATH,BC Colony 1,7095062059,'70532183541,'2221576754,0,400,400,2024-01-02 19:19:03,Satyanarayana
+2,'11600608,Podilapu Ramu 1,పోదిలాపు రాము 1,Active,S/O Suryarao 5-45 Velagathodu Velagathod,BC Colony 1,9550500106,'16D508212615,'8134604320436984,250,250,570,2025-06-23 09:05:55,Satyanarayana
+3,'11600560,Kalli Ratnam,కల్లి రత్నం,Active,W/O Satyanarayana 5-48 BC COLONY Velagat,BC Colony 1,8464820973,'111511117443,'7750137002388616,0,250,250,2025-07-07 11:04:16,Satyanarayana
+4,'11600547,Pinapalla Sreenu,పినపల్ల శ్రీను,Suspended,S/O Guruvulu 5-46 BC COLONY Velagathodu,BC Colony 1,9502518452,'111511114202,'7750137002366208,440,320,320,2025-02-07 20:10:14,Satyanarayana
+5,'12258122,Seela Apparao,శీల అప్పారావు,Active,"S/O Ramulu,5-44, Velagathodu East Godava",BC Colony 1,9652822141,'111511114685,'7750137002371034,200,250,300,2025-07-16 05:38:29,Satyanarayana
+6,'11500561,Vennapu Venugopala Rao,వెన్నపు వేణుగోపాలరావు,Active,S/O Kuppeswar Rao 5-52 B.C.Colony Velaga,BC Colony 1,8978269599,'111410060290,'7750137001674032,0,250,250,2025-07-16 05:47:23,Satyanarayana
+7,'11500699,Tampara Ramu,తంపర రాము,Active,S/O Adinarayana 5-51 VELAGATHODU Velagat,BC Colony 2,9652931100,'70594621933,'ACT230900070364,250,250,250,2025-06-26 11:45:10,Satyanarayana
+8,'11600542,Tanuku Bhadravathi,తణుకు భద్రవతి,Cancelled,W/O Surya Narayanamurthy 5-50 Velagathod,BC Colony 1,9573009095,'111511114776,'7750137002371943,0,250,250,2022-10-02 21:26:59,Satyanarayana
+9,'11600483,Palisetti Anuradha,పలిసేట్టి అనురాధ,Active,W/O Apparao 5-49 Bc Colony Velagathodu E,BC Colony 1,9704220471,'111511117445,'7750137002388632,340,250,300,2025-06-11 11:03:07,Satyanarayana
+10,'C2062567,Udatha Veeraju,ఉడత వీరాజు,Active,"5-56,BC COLONY,VELAGATHODU MANDAPETA-533",BC Colony 1,9652831110,'111511127750,'7750137002422993,580,250,300,2025-05-29 14:55:35,Satyanarayana
+11,'C1984851,Kodi Durga Rao,కోడి దుర్గ రావు,Active,S/O Lakshmayya 5-59 BC COLONY Velagathod,BC Colony 1,8500255841,'70532701268,'2227002478,250,250,250,2025-06-23 09:06:57,Satyanarayana
+12,'11600589,Pisini Sathyam,పిసిని సత్యం,Active,S/O Tata 5-46 BC COLONY Velagathodu Vela,BC Colony 1,8341424895,'111511121827,'7750137002453923,250,250,590,2025-06-13 09:49:57,Satyanarayana
+13,'11600633,Kandivalasa Tavitayya,కందివలస తవిటయ్య,Active,"S/O Surayya,5-69, BC COLONY, Velagathodu",BC Colony 1,9177001958,'111511114203,'7750137002366216,250,250,260,2025-06-20 12:24:15,Satyanarayana
+14,'11600445,Biradakota Suribabu,బిరధకోట సూరిబాబు,Active,"S/O Srinu,5-62, New Colony Velagathodu E",BC Colony 1,7674910080,'111511114205,'7750137002366232,0,250,250,2025-07-21 15:36:12,Satyanarayana
+15,'C2232817,Kola Dhasu,కోలా దాసు,Active,"S/O Sanyasirao,5-66, Velagathodu East Go",BC Colony 1,7674930250,'70564529124,'2234248496,520,250,300,2025-05-22 20:38:29,Satyanarayana
+16,'C2034093,Podilapu Ramu,పోదిలపు రాము,Active,S/O Viswanadham 5-69 BC COLONY Velagatho,BC Colony 1,9908358039,'70564150004,'2234210584,250,250,250,2025-06-26 11:43:09,Satyanarayana
+17,'12656088,Kodi Lakshmanarao,కోడి లక్ష్మణరావు,Active,S/O Venkanna 5-63 Velagathodu East Godav,BC Colony 1,8074831778,'2161469792,'70023519682,0,250,250,2025-07-21 15:37:43,Satyanarayana
+18,'11500617,Tanuku Gopi,తణుకు గోపి,Active,S/O Nageswarao 5-65 Velagathodu East God,BC Colony 1,9573935089,'111410057209,'7750137001703229,840,250,500,2025-03-13 19:55:53,Satyanarayana
+19,'C2260307,Podilapu Lachhayya,పోదిలపు లచ్చయ్య,Active,S/O Asriyya 5-73 Bc Colony Velagathodu E,BC Colony 1,9381616157,'70564513292,'2234246913,250,250,250,2025-06-26 11:43:42,Satyanarayana
+20,'11500554,Kodi Srinivasarao,కోడి శ్రీనివాసరావు,Cancelled,S/O Satyanarayana 5-75 Velagathodu Velag,BC Colony 1,8639252578,'111510093694,'7750137002145628,-20,320,400,2023-08-10 18:44:50,Satyanarayana
+21,'C2430252,Nalamamidi Venkata Rao,నల్లమామిడి వెంకట రావు,Suspended,W/O: Surayya 5-76 bc colony velagathodu,BC Colony 1,8331925688,'70594771506,'2264470174,80,250,170,2025-06-16 13:59:30,Satyanarayana
+22,'11600791,Eluri Neelakantam,ఏలూరి నీలకంట్టం,Suspended,S/O Narayana 5-88 New Colony Velagathodu,BC Colony 1,6305360494,'111511121798,'7750137002450218,960,320,840,2024-03-24 21:04:21,Satyanarayana
+23,'11600579,Adapaka Lakshmi,అడపాక లక్ష్మి,Active,W/O Avitiyya 5-89 Velagathodu East Godav,BC Colony 1,6305068112,'111511114210,'7750137002366281,860,250,1000,2025-03-23 19:54:55,Satyanarayana
+24,'C2102070,Pasupuleti Venkateswara Rao,పసుపులేటి వెంకటేశ్వరావు,Active,S/O Apparao 5-82 BC COLONY Velagathodu,BC Colony 1,9989625756,'70564021007,'2234197684,250,250,790,2025-06-16 13:59:57,Satyanarayana
+25,'11600696,Pasupuleti Suryabhaskara Rao,పసుపులేటి సుర్యభాస్కరావు,Active,S/O Venkateswara Rao 5-82 BC COLONY Vela,BC Colony 1,9550689948,'AC2008322260,'7750137007715847,250,250,890,2025-06-16 14:01:04,Satyanarayana
+26,'11600502,Kosuri Venkataramana,కోసూరి వెంకటరమణ,Active,"S/O Veerraju,5-86, Velagathodu East Goda",BC Colony 1,0,'111511117448,'7750137002388665,1180,250,500,2025-03-29 20:45:22,Satyanarayana
+27,'11600432,Gopi Sattibabu,గోపి సత్తిబాబు,Cancelled,,BC Colony 1,9908388584,'111511117447,'7750137002388657,170,260,500,2021-05-23 10:59:13,Satyanarayana
+28,'C2378522,Sattivada Srinu,సత్తివాడ శ్రీను,Suspended,"S/O Aadiyya,5-092, Velagathodu East Goda",BC Colony 1,9866843679,'70564360512,'2234231635,0,229.62,459.24,2025-02-12 20:46:24,Satyanarayana
+29,'11618374,Suvvada Srinivasarao,సువ్వాడ శ్రీనివాసరావు,Cancelled,S/O Apparao 5-87 Velagathodu Velagathodu,BC Colony 1,9866047872,'111511121792,'7750137002450275,0,280,280,2022-07-01 03:32:02,Satyanarayana
+30,'11618396,Suvvada Durgarao,సువ్వాడ దుర్గారావు,Cancelled,"S/O Apparao,5-87, Velagathodu East Godav",BC Colony 1,9701879048,'AC1808207970,'7750137007174664,0,320,400,2022-12-01 14:37:31,Satyanarayana
+31,'11600826,Immandi Venkata Rao,ఇమ్మంది వెంకట్రావు,Active,S/O Kondayya 5-97 New Colony New Colony,BC Colony 1,9963148126,'111511121799,'7750137002450200,2100,250,1720,2024-12-31 14:16:13,Satyanarayana
+32,'11807186,Vanapalli Paparao,వానపల్లి పాపారావు,Active,"S/O Paparao,5-99, SC COLONY, Velagathodu",BC Colony 1,9908318129,'111511127569,'7750137002715875,200,250,300,2025-06-11 13:18:16,Satyanarayana
+33,'11618435,Durga Seeta Mahalakshmi,దుర్గ సీత మహాలక్ష్మి,Suspended,W/O Polarao 5-98 New Colony Velagathodu,BC Colony 1,9963030565,'111511124580,'7750137002705991,0,320,640,2025-04-09 08:59:49,Satyanarayana
+34,'12577304,Chirapu Appalanarsamma,చిరాపు అప్పలనరసమ్మ,Active,"W/O Shankarao,5-100,Velagathodu",BC Colony 1,9490183379,'2147520815,'70022966231,250,250,270,2025-06-12 22:30:16,Satyanarayana
+35,'11600840,Pandranki Sivakrishna,పాండ్రంకి శివకృష్ణ,Active,S/O Apparao 5-68 B.C. COLONY Velagathodu,BC Colony 1,8790235016,'111511121791,'7750137002450283,290,250,930,2025-06-29 20:06:38,Satyanarayana
+36,'11600846,Vanapalli Ramesh,వానపల్లి రమేష్,Cancelled,S/O Venkataramana 5-104 New Colony Velag,BC Colony 1,,'AC1808207969,'7750137007188656,0,320,120,2024-05-10 11:00:20,Satyanarayana
+37,'12960817,Jakka Veera Raghavulu,జక్క వీర రాఘవులు,Active,S/O Suryanarayana 5-105 Velagathodu East,BC Colony 1,9492773839,'AC1806185150,'7750137006385246,790,250,1650,2025-04-05 19:38:57,Satyanarayana
+38,'11600598,Boora Macharayya,బూర మాచరయ్య,Suspended,"S/O Yesayya,5-106,SC COLONY, Velagathodu",BC Colony 1,9000486239,'111511121821,'7750137002453980,0,250,250,2025-07-07 11:04:36,Satyanarayana
+39,'11643750,Kommu Lovaraju,కొమ్ము లోవరాజు,Cancelled,"S/O MUSALAYYA,5-108,NEW COLONY Velagatho",BC Colony 1,9493569355,'111511124572,'7750137002705918,280,250,290,2023-08-09 10:16:16,Satyanarayana
+40,'11600834,Gollapalli Srinivasarao,గొల్లపల్లి శ్రీనివాసరావు,Active,S/O Krishnayya 5-189 Velagathodu Velagat,SC Colony,9440631992,'8333003D2DE1,'00008333003D2DE1,840,250,500,2025-04-09 09:18:37,Satyanarayana
+41,'11600771,Allimpilli Lalitha,అల్లింపిల్లి లలిత,Active,"W/O Adinarayana,5-125, SC COLONY, Velaga",SC Colony,9494491419,'70594674296,'2254498981,0,250,250,2025-07-07 11:02:06,Satyanarayana
+42,'11500669,Aadi Malleswararao,ఆది మల్లేశ్వర రావు,Active,"S/O Tatayya,5-129, Velagathodu",SC Colony,9133559453,'111410057208,'7750137001703211,250,250,250,2025-06-10 16:25:36,Satyanarayana
+43,'11600829,Kurakula Pedababu,కురాకుల పెద్దబాబు,Active,S/O Simhadri 5-150 Velagathodu Velagatho,SC Colony,0,'111511121795,'7750137002453188,820,250,340,2025-04-09 09:22:15,Satyanarayana
+44,'12423942,Padipe Chinna babu,పడిపే చిన్న బాబు,Suspended,"5-151,SC NEW COLONY,VELAGATHODU MANDAPET",SC Colony,,'111511127746,'7750137002717640,0,320,1080,2024-02-10 19:43:10,Satyanarayana
+45,'C2264755,Balla Premasundaram,బల్లా ప్రేమసుందరం,Active,"S/O : Barnababu Israyel,5-167, SC Colony",SC Colony,9441803425,'2234248888,'70564533043,500,250,320,2025-05-13 19:48:01,Satyanarayana
+46,'11599645,Domali Ratnam,దొమలి రత్నం,Active,W/O: Ramatata 5-176/1 s c colony Velagat,SC Colony,7661048819,'111510092945,'7750137002128129,0,250,250,2025-07-07 11:02:25,Satyanarayana
+47,'C2132055,Kappala Kantharaju,కప్పల కంతరాజు,Active,S/O Rajendravaraprasad Late 5-171 Velaga,SC Colony,8520890669,'70594587654,'2254490317,330,250,500,2025-06-12 08:09:34,Satyanarayana
+48,'12982545,Pidimi Suryarao,పిడిమి సూర్య రావు,Suspended,"S/O Ramaswami,5-182, Velagathodu",SC Colony,9000912446,"'111511114693, AC1808207971","'7750137002371117, 77501370",280,250,560,2024-08-02 11:12:06,Satyanarayana
+49,'11599630,Pathuri Subrahmanyam,పాతూరి సుబ్రహ్మణ్యం,Suspended,S/O Satyanarayana 5-188 SC COLONY Velaga,SC Colony,0,'111511127588,'7750137002716063,1430,320,500,2024-10-10 10:35:50,Satyanarayana
+50,'C1916781,Pulapakura Manga,పులపకురా మంగ,Active,"W/O Shyamilu,5-191, Velagathodu East God",SC Colony,9491438529,'70532707174,'2227003069,1440,250,1000,2025-03-19 20:14:11,Satyanarayana
+51,'11600663,Veeravalli Chinna rao,వీరవల్లి చిన్నారావు,Active,"5-192,VELAGATHODU MANDAPETA-533340",SC Colony,0,'111511121800,'66106011612020065616,0,250,250,2025-07-11 20:53:13,Satyanarayana
+52,'12541949,Sade Bulli Satyanarayana,సాదే బుల్లి సత్యనారాయణ,Active,S/O Ganniyya 5-222 SC COLONY Velagathodu,SC Colony,7702380599,'2147532177,'70023079851,800,160,450,2025-02-12 20:15:19,Satyanarayana
+53,'12363114,Kothapalli Veera Venkatarao,కొతపల్లి వీర వెంకటరావు,Active,"5-229,SC COLONY MANDAPETA-533340",SC Colony,9989114339,'111511117421,'7750137002388392,250,250,270,2025-06-10 16:34:22,Satyanarayana
+54,'C1698790,Balla Nageswara Rao,బల్లా నాగేశ్వరావు,Active,S/O Subbarao 5-249 Velagathodu East Goda,SC Colony,7981808098,'70424964966,'70424964966,3305,400,2000,2025-03-29 21:06:07,Satyanarayana
+55,'C2077044,Polumati Srinu,పోలుమాటి శ్రీను,Active,"S/O MUSALAYYA,5-252,SC COLONY VELAGATHOD",SC Colony,9494441951,'70564099409,'2234205524,1120,250,1000,2025-03-19 20:25:12,Satyanarayana
+56,'12541942,Sannapu Manga,సన్నపు మంగ,Active,"W/O Venkatarao,5-255, Velagathodu",SC Colony,9492081780,'2147525761,'66106211706030020255,220,250,600,2025-06-04 08:52:16,Satyanarayana
+57,'12577328,Mellimi Bhimaraju,మెల్లిమి భీమరాజు,Cancelled,S/O Veeravenkata Rao 5-259 SC NEW COLONY,Main Road,7995878741,'2147517030,'70022928389,0,280,600,2023-01-11 08:43:58,Satyanarayana
+58,'11500567,Grandhi Veera Venkata Rama krishna,గ్రాంధి వీర వెంకట రమ కృష్ణ,Active,"S/O Veeranjaneyulu,5-263,New Colony, Vel",Main Road,9912446362,'70564079948,'2234203578,250,250,250,2025-06-04 09:06:35,Satyanarayana
+59,'12258146,Polumati Venkata Vijaya Ramaraju,పోలుమాటి వెంకట విజయ రామరాజు,Active,"S/O Raju,5-264,SC COLONY VELAGATHODU Eas",Main Road,8008568600,'111511114681,'7750137002370994,250,250,250,2025-06-07 11:48:49,Satyanarayana
+60,'11600619,Arugula Martha,అరుగుల మార్త,Active,"W/O Srinu,5-265, NEW COLONY Velagathodu",Main Road,0,'111511114206,'7750137002366240,215.46,215.46,215.46,2025-06-30 21:31:54,Satyanarayana
+61,'12577308,Gandeti Subbayyamma,గండేటి సుబ్బయ్యమ్మ,Active,"W/O Harinath,5-266, Velagathodu",Main Road,9491438529,'2147520911,'70022967197,579.12,193.04,764.46,2025-04-06 11:08:24,Satyanarayana
+62,'C2188314,Sheik Immam Saheb,షేక్ ఇమ్మం సాహెబ్,Cancelled,S/O Mirasaheb 1-2 Velagathodu,Main Road,7330932543,'70564323189,'2234227902,0,320,680,2024-04-10 16:29:54,Satyanarayana
+63,'C1972202,Majji Chiranjeevi,మజ్జి చిరంజీవి,Active,5-269 Main road,Main Road,9493563057,'70424967126,'2204760264,250,250,890,2025-06-04 09:15:39,Satyanarayana
+64,'C1925605,Kalyanapu Appalaraju,కళ్యాణపు అప్పలరాజు,Cancelled,"S/O Kanakaraju Late,5-261,New Colony, Ve",Main Road,9666804565,'70532591974,'2226991549,0,300,320,2023-04-18 20:47:15,Satyanarayana
+65,'C2401473,Chalapathi Venkata LakshmanRao,చలపతి వెంకట లక్ష్మణరావు,Active,"1-6,MAIN ROAD,NEAR HIGH SCHOOL,VELAGATHO",Main Road,6301000242,'70564474578,'2234243041,820,250,320,2025-04-15 09:00:51,Satyanarayana
+66,'C2596042,Gandeti Rama Krishna Nayudu,గండేటి రామకృష్ణ నాయుడు,Active,"S/O Harinad,1-10, Velagathodu East Godav",Main Road,9705747762,'70424504960,'2204714048,1060,250,960,2025-03-19 20:33:58,Satyanarayana
+67,'C2223593,Chalapathi Pedda kapu,చలపతి పెద్ద కాపు,Active,,Main Road,9494126545,'70564530270,'2234248611,1280,250,900,2025-03-31 22:27:24,Satyanarayana
+68,'11600403,Vengala Siva Prasad,వెంగల శివ ప్రసాద్,Active,S/O Satyanarayana 1-11 Velagathodu Velag,Main Road,9640833686,'111511124318,'7750137002703376,5300,250,220,2024-02-07 19:06:56,Satyanarayana
+69,'11500642,Bhogilli Rajarao,భోగిల్లి రాజారావు,Suspended,S/O Suryanarayana 1-17 Velagathodu Velag,Main Road,0,'111410057201,'7750137001703146,724.38,206.02,700,2023-02-02 09:17:44,Satyanarayana
+70,'12656330,Bhogilli Prasad,భోగిల్లి ప్రసాద్,Active,S/O Suryanarayana 1-18 Velagathodu Velag,Main Road,9908727365,'8134604320204440,'1662A0FD3545,872,250,2000,2025-04-06 10:40:13,Satyanarayana
+71,'12434794,Bobba Veeraju,బొబ్బ వీరాజు,Active,,Main Road,8179265885,"'111510096461, 70594799994","'7750137002716014, 2264473023",2392.8,204.84,1000,2025-02-12 08:19:14,Satyanarayana
+72,'11600386,Bhogilla Krishnamurthy,భోగిల్ల కృష్ణమూర్తి,Active,W/O Krishna Murthy 1-15 Velagathodu Vela,Main Road,9491438529,'111511124316,'7750137002703350,-829.16,200.12,2300,2025-01-02 09:41:40,Satyanarayana
+73,'11600377,Bogilli Veerraju,భోగిల్లి వీరాజు,Active,S/O Krishna Murthy 1-12 Velagathodu Vela,Main Road,9494954041,'111511124314,'7750137002703335,820,250,1000,2025-04-09 09:29:50,Satyanarayana
+74,'11600392,Penumarti MuniRaju,పెనుమర్తి మునిరాజు,Active,"S/O Muniraju,1-14, Velagathodu East Goda",Main Road,9491438529,'111511124315,'7750137002703343,0,239.06,717.18,2025-07-11 21:02:47,Satyanarayana
+75,'11500648,Gali Ramarao,గాలి రామారావు,Active,"S/O Appanna,2-18, Velagathodu East Godav",Main Road,0,'7750137002470273,'111511125611,0,250,250,2025-07-21 15:34:20,Satyanarayana
+76,'C1627323,Mulakala Apparao,ములకల అప్పారావు,Active,"S/O Satyam,1-35, Velagathodu, East Godav",Main Road,9989626139,'70532008540,'2221559254,250,250,570,2025-06-10 15:59:42,Satyanarayana
+77,'12258090,Dalayi Devi,దలాయి దేవి,Active,"W/O Srinivasu,5-237, SC COLONY Velagatho",Main Road,8500311267,'70594742440,'2264467268,1320.44,250,500,2025-03-12 19:17:44,Satyanarayana
+78,'12423657,Bobba V V Satyanarayana,బొబ్బ సత్యనారాయణ,Suspended,1-38,Main Road,9963062727,'AC2003311590,'7750137007690479,539.02,250,1079,2025-03-03 13:08:24,Satyanarayana
+79,'11500590,Amballa Varalakshmi,అంబల్ల వరలక్ష్మి,Active,W/O Satyanarayana 2-5 Velagathodu Velaga,Market Road,9491438529,'70564144262,'2234210010,347.26,182.42,200,2025-06-16 11:38:30,Satyanarayana
+80,'12423675,Rajani VenkataRamana,రాజాని వెంకటరమణ,Active,Velagathodu,Market Road,9494589868,'111511120725,'7750137002441431,1140,250,640,2025-03-09 19:19:42,Satyanarayana
+81,'11600634,Nukaarupu Srinivasa rao,నుకరపు శ్రీనివాసరావు,Active,2-6S/O APPARAOBC COLONY,Market Road,0,'111511127583,'7750137002371000,215.46,215.46,215.46,2025-06-26 11:46:55,Satyanarayana
+82,'12258180,Ponnada Satyavathi,పొన్నాడ సత్యవతి,Active,"W/O Apparao,2-10,Santha Market, Velagath",Market Road,9704915083,'111511114686,'7750137002371042,250,250,250,2025-06-16 11:39:11,Satyanarayana
+83,'11645891,Reddy Lakshmi,రెడ్డి లక్ష్మి,Active,"S/O Apparao,3-3, Velagathodu",Market Road,,'111511121903,'7750137002453162,0,250,230,2025-07-07 11:13:15,Satyanarayana
+84,'11600603,Borra Bapanamma,బొర్రా బాపనమ్మ,Cancelled,W/O Nageswararao Late 3-4 Velagathodu Ea,Market Road,,'111511114201,'7750137002366190,0,210.74,244,2024-03-09 17:16:39,Satyanarayana
+85,'11600481,Tirumareddy Krishna,తిరుమరెడ్డి కృష్ణ,Active,"S/O Krishna,3-2, Velagathodu",Market Road,0,'111511114341,'7750137002367594,379.46,250,230,2025-06-26 11:46:27,Satyanarayana
+86,'11645809,Kunapalli Ramesh,కునపల్లి రమేష్,Active,"S/O Eswararao 3-12, Velagathodu",Market Road,9959942061,'111511127584,'7750137002716022,250,250,570,2025-06-12 21:21:46,Satyanarayana
+87,'C1997274,Vallireddy Ramarao,వల్లిరెడ్డి రామారావు,Active,"S/O Simhachalam,3-8,New Colony, Velagath",Market Road,9177190819,'70564145285,'2234210112,0,250,200,2025-07-11 21:00:55,Satyanarayana
+88,'12699268,Valli Reddy Durgarao,వల్లిరెడ్డి దుర్గారావు,Cancelled,S/O Ramarao 3-11 Velagathodu East Godava,Market Road,9000602413,'1662CBAA9943,'8134604320204838,230,280,300,2023-01-12 22:07:09,Satyanarayana
+89,'11600453,Kandi Vijaya Surekha,కంది విజయ సురేఖ,Cancelled,"W/O Tataraju Late,3-13, Velagathodu",Market Road,9949559330,'111511127587,'7750137002716048,0,320,720,2024-12-16 13:47:37,Satyanarayana
+90,'11291211,Chilla Satayanarayana,చిల్ల సత్యనారాయణ,Suspended,S/O Apparao 3-18 Velagathodu Velagathodu,Market Road,7382254129,'111409033631,'7750137001467031,320,250,1,0000-00-00 00:00:00,Satyanarayana
+91,'12434750,Pasupuleti Naganjaneyulu,పసుపులేటి నాగాంజనేయులు,Active,S/O Venkateswara Rao 5-82 B.C. COLONY Ve,Panchayeti Road,9676513188,'70424943002,'2204757852,500,250,200,2025-02-14 17:10:22,Satyanarayana
+92,'C1892717,Chenna Simhachalam,చెన్న సింహాచలం,Active,W/O Nagaraju 1-38 CHERUVUGATTU STREET Ve,Panchayeti Road,9494892129,'70594570742,'ACT230900070461,40,250,2000,2025-04-04 10:58:58,Satyanarayana
+93,'11600543,Chilakalapalli Ramu,చిలకలపల్లి రాము,Cancelled,S/O Prakasharao 1-145 Velagathodu Velaga,Panchayeti Road,9550546660,'111511114347,'7750137002367651,0,320,680,2024-10-08 10:10:03,Satyanarayana
+94,'12756596,Thota Varalakshmi,తోట వరలక్ష్మి,Active,"1-39,NEAR PANCHAYATHI,VELAGATHODU MANDAP",Panchayeti Road,9959018819,'AC1804003466,'7750137005063885,250,250,530,2025-06-04 20:26:50,Satyanarayana
+95,'11600564,Valluri Suryakantham,వల్లూరి సూర్య కాంతం,Cancelled,W/O Krishnamurty 1-52 Velagathodu Velaga,Panchayeti Road,9666733180,'111511121825,'7750137002453949,0,250,280,2024-07-03 09:26:00,Satyanarayana
+96,'11500752,Betini Bhaskararao,బెతిని భాస్కరావు,Active,"S/O Ramanna,1-75, Velagathodu",Panchayeti Road,9493662846,'111410060281,'7750137001673943,250,250,530,2025-06-04 20:37:05,Satyanarayana
+97,'11600398,Bhogilli Venkataraju,భోగిల్లి వెంకట రాజు,Active,"S/O Pattabhi,1-15, Velagathodu",Panchayeti Road,,'111511124312,'7750137002703319,-1300,250,3200,2025-03-29 22:37:21,Satyanarayana
+98,'11600712,Nichhenakolla Govinda Raju,నిచ్చేనకొల్ల గోవింద రాజు,Active,"S/O Venkateswararao,4-78,ANJANEYASWAMY S",RiceMill Road,9494228995,'7750137002453915,'111511121829,190.92,215.46,240,2025-05-19 08:36:59,Satyanarayana
+99,'11645922,Kotipalli Venkatalakshmi,కోటిపల్లి వెంకటలక్ష్మి,Cancelled,"W/O Satyanarayana,1-65, rice mill Street",RiceMill Road,9490598828,'111511121905,'7750137002453147,50,250,230,2024-01-07 09:22:04,Satyanarayana
+100,'11600503,Kotipalli Siva Ramakrishna,కోటిపల్లి శివ రామకృష్ణ,Cancelled,S/O Satyanarayana 1-65 RICEMILL STREET V,RiceMill Road,9492256016,'111511114350,'7750137002367685,0,320,640,2023-09-01 07:43:22,Satyanarayana
+101,'11600575,Kotipalli Ramarao,కోటిపల్లి రామారావు,Active,"S/O Veerabhadrudu,1-64, Velagathodu",RiceMill Road,9490378195,'111511121826,'7750137002453931,2100,250,1240,2024-12-24 18:18:56,Satyanarayana
+102,'12541966,Ayinaparthi Satyanarayana,అయినపర్తి సత్యనారాయణ,Active,"S/O Venkata Rao, 1-2,Rice Millu Veedhi,V",RiceMill Road,9491269208,'2161464786,'70023469623,0,250,250,2025-07-07 11:13:36,Satyanarayana
+103,'12577312,Ayinaparthi Veerabhaskararao,అయునపర్తి భాస్కరావు,Active,S/O Venkatarao 1-72 Velagathodu Velagath,RiceMill Road,9502512224,'2147520971,'70022967791,130,250,190,2025-07-21 15:35:30,Satyanarayana
+104,'11600402,Sade Samuelu,సాదే శామ్యూల్ (పిడిగు రాముడు),Active,S/O Pidugu Ramudu 5-161 S.C.Colony S.C.C,SC Colony,9494589868,'16D508212612,'8134604320436976,2016.32,252.04,996.36,2024-11-16 07:25:01,Satyanarayana
+105,'C2436664,Rayudu Satyanarayana,రాయుడు సత్యనారాయణ,Active,S/O Krishnamurthy 2-67 PALLAPU STREET Ve,Market Road,9494589868,'70594800164,'2264473040,0,0,10,0000-00-00 00:00:00,Satyanarayana
+106,'12317645,Rayudu Krishnamurty,రాయుడు కృష్ణమూర్తి,Active,S/O Veeranna 1-23 Velagathodu Velagathod,Main Road,8247654886,'2146909007,'2146909007,0,0,200,2019-07-18 07:04:21,Satyanarayana
+107,'12637417,PENUMARTHI RAVIKUMAR,పెనుమర్తి రవికుమార్,Active,"S/O Muniraju, 1-14, Velagathodu",Main Road,9492191345,'2147502118,'70022779261,110,250,500,2025-07-07 11:11:34,Satyanarayana
+108,'C2229473,Koti Papa,కోటి పాప,Active,W/O Prasad 5-132 New Colony New Colony V,SC Colony,9705561719,'70564513680,'2234246952,780,250,1000,2025-03-07 19:19:49,Satyanarayana
+109,'11600521,Seela Ramana,శీల రమణ,Suspended,W/O Baburao 5-40 New Colony Velagathodu,BC Colony 1,9553273953,'111511114207,'7750137002366257,0,250,280,2025-05-01 09:19:21,Satyanarayana
+110,'11599593,Yalamala Srinivasa Rao,యలమల శ్రీనివాస రావు,Suspended,S/O Sriramulu 2-29 CHERUVUGATTU STREET V,RiceMill Road,9493372541,'111511114698,'111511114698,0,160,5478.2,2020-12-31 14:12:02,Satyanarayana
+111,'12692420,Polumati Sattiyya,పోలుమాటి సత్తియ్య,Active,S/O Musalayya 5-253 SC COLONY VELAGATHOD,SC Colony,9705916254,'70023348603,'2161452684,276.32,221.36,400,2025-06-10 16:37:47,Satyanarayana
+112,'12695781,Bolla Subramanyam,బొల్లా సుబ్రహ్మణ్యం,Active,S/O: Narasimhamurthy 1-40 cheruvu gattu,BC Colony 2,9676460144,'AC2003311571,'7750137007687160,0,250,500,2025-07-16 05:35:51,Satyanarayana
+113,'12717298,SATTIVADA DURGARAO,సత్తివాడ దుర్గారావు,Active,S/O Aadiyya 5-92 Velagathodu East Godava,BC Colony 1,7993735289,'none,'2161452732,820,250,500,2025-05-05 20:15:01,Satyanarayana
+114,'11673614,Pasupuleti Sesharao,పసుపులేటి శేషరావు,Active,,Market Road,0,'2145838149,'2145838149,0,226.08,226.08,2025-07-09 21:31:10,Satyanarayana
+115,'12756592,Rayi Saraswathi,రాయి సరస్వతి,Cancelled,W/O Satyanarayana 5-170 New Colony Velag,SC Colony,9948956166,'7750137005119901,'AC1804019342,0,206.02,281.4,2022-07-01 03:50:15,Satyanarayana
+116,'12808571,Mandru Nagaraju,మాండ్రు నాగరాజు,Active,"S/O John, 5-203, New Colony, Velagathodu",SC Colony,9573140087,'7750137004984032,'AC1804003462,1140,250,460,2025-03-07 19:45:44,Satyanarayana
+117,'12808569,Adi Ganesh,ఆది గణేష్,Active,"S/O Malleswara Rao, 5-129, New Colony, V",SC Colony,9866501348,'7750137004985757,'AC1804003461,672.24,229.62,600,2025-04-13 15:22:44,Satyanarayana
+118,'12434729,VIPPARTHI MARIYAMMA,విప్పర్తి మరియమ్మ,Cancelled,W/O Yesu 5-107 Velagatodu Velagatodu Vel,BC Colony 1,0,'7750137002391446,'111511117726,0,250,300,2023-08-09 10:17:32,Satyanarayana
+119,'C1521077,Polumati Bapanayya,పొలిమాటి బాపనయ్య,Active,SC Colony Velagathodu,SC Colony,9959472224,'70424942665,'2204757818,0,0,,,Satyanarayana
+120,'11447170,Podilapu Kanakam,పోదిలపు కనకం,Active,W/O Lakshmayya 4-21 Velagathodu East God,BC Colony 1,9502795190,'8333003BDBE7,'00008333003BDBE7,230,250,130,2025-06-16 13:58:32,Satyanarayana
+121,'12798940,Dhuli Suryanarayana Murthy,ధూళి సూర్యనారాయణ మూర్తి,Active,"1-78,VELAGATHODU MANDAPETA-533340",Panchayeti Road,9491017098,'7750137005004566,'AC1804003467,250,250,200,2025-07-16 05:45:59,Satyanarayana
+122,'12849866,Tirumareddy Janiki,తిరుమరెడ్డి జానికి,Active,W/O Bangarubabu 3-2 Velagathodu East God,Market Road,0,'7750137005117418,'AC1804019343,250,250,221.36,2025-06-26 11:47:35,Satyanarayana
+123,'12258140,Kunche Gangamma,కుంచే గంగమ్మ,Active,W/O Devanandu 5-258 Velagathodu East God,Main Road,7382969991,'2140579046,'2140579046,0,250,250,2025-07-21 15:32:39,Satyanarayana
+124,'11599585,Marisetty Machararao,మారిశెట్టి మాచరరావు,Active,"S/O Macharayya, 5-55, Velagathodu",BC Colony 1,8106167001,'111410057201,'7750137001703146,250,250,530,2025-06-14 20:31:24,Satyanarayana
+125,'C2037764,Kommu Surrarao,కొమ్ము సుర్రరావు,Active,,BC Colony 1,8500671826,'70564093907,'2234204974,0,250,250,2025-07-07 11:06:50,Satyanarayana
+126,'12838333,Doddi Lakshmi,దొడ్డి లక్ష్మి,Active,velagathodu,Market Road,9154436744,'AC1805040320,'7750137005395519,400,400,400,2025-06-12 22:36:38,Satyanarayana
+127,'12577253,Penumarti Venkataraju,పెనుమర్తి వెంకటరాజు,Cancelled,S/O Muniraju 1-14 Velagathodu Velagathod,Main Road,9533330180,'2147520504,'70022963121,0,199.42,579.76,2020-12-27 08:29:25,Satyanarayana
+128,'12954843,Rayi Chinna Satyanarayana,రాయి చిన్న సత్యనారాయణ,Active,S/O Lakshmanarao 5-204 Velagathodu East,SC Colony,8688515183,'AC1805097994,'7750137005867533,400,400,1200,2025-06-07 11:54:44,Satyanarayana
+129,'12637419,Gude Ramanamma,గుదె రమణమ్మ,Active,,BC Colony 1,9494180531,'2161478297,'70023604732,250,250,530,2025-06-20 12:25:07,Satyanarayana
+130,'12963065,Talari Ramesh,తలారి రమేష్,Suspended,S/O Lakshmanudu 5-250 SC COLONY VELAGATH,Main Road,0,'AC1806185148,'7750137006319351,440,320,200,2023-09-26 06:04:46,Satyanarayana
+131,'11599548,Tirimireddy Mahesh,తిరిమిరెడ్డి మహేశ్ ( చిలకమ్మ ),Active,D/O Trinadh 5-173 Velagathodu 533340,BC Colony 2,7036210944,'111511114694,'7750137002371125,0,320,700,2025-07-16 05:35:20,Satyanarayana
+132,'C2131528,Teli Vijaya Kalyan,తేలి విజయ కళ్యాణ్,Active,S/O Apparao 5-107 S.C.Colony,BC Colony 1,9177264928,'70564108523,'2234206436,250,250,510,2025-06-23 09:08:04,Satyanarayana
+133,'12992937,Junnu Anil Kumar,జున్ను అనిల్ కుమార్,Cancelled,S/O Suryanarayana 1-58 MUNASABUGARI STRE,Panchayeti Road,0,'111511122260,'7750137002426796,0,201.3,21.6,2023-06-16 12:41:50,Satyanarayana
+134,'12993291,Pandranki Venkata Ramana,పాడ్రంకి .వెంకట రమన,Active,S/O Apparao 1-44 Velagathodu Velagathodu Velagathodu East Godavari,Panchayeti Road,6301735181,'16D508212607,'8134604320436901,820,250,340,2025-04-06 19:03:29,Satyanarayana
+135,'13003811,KODI RAMA KRISHNA,కోడి రామకృష్ణ,Active,S/O Satyanarayana 4-18 Bc Colony Velagat,BC Colony 1,0,'111511117441,'7750137002388590,0,237.88,237.88,2025-07-07 11:05:26,Satyanarayana
+136,'13027427,Reddy Mounika,రెడ్డి మౌనిక,Active,"W/O Reddy Rama Srinivasu, 3-3, Santha Ma",Market Road,9381587785,'AC2008322258,'7750137007795682,250,250,250,2025-06-10 15:56:51,Satyanarayana
+137,'13027492,Padipe Paparao,పడిపే పాపారావు,Suspended,S/O Chinnayya 5-151 SC Colony Velagathod,SC Colony,7731052799,'AC2008322259,'7750137007702142,270,280,270,2023-03-07 18:37:36,Satyanarayana
+138,'C1340238,Kodi Ganniraju,కోడి గన్నీరాజు,Active,"S/O Lakshmayya 5-47, BC Colony Velagatho",BC Colony 1,8790947657,'16D508212566,'8134604320439277,0,250,250,2025-07-11 21:11:51,Satyanarayana
+139,'12637421,Mungamuri Krishna,ముంగమూరి కృష్ణ,Active,,SC Colony,0,'2161463918,'2161463918,330,250,600,2025-06-04 08:54:27,Satyanarayana
+140,'C1541118,Mandru Mohanrao,మాoడ్రు మోహనరావు,Active,"S/O Chinnabbulu, 5-273, Velagathodu 5333",SC Colony,8096862223,'70424967282,'2204760280,820,250,320,2025-04-08 18:47:06,Satyanarayana
+141,'C1543074,Marni VeeraVenkata Satyanarayana,మార్ని వీర వెంకట సత్యనారాయణ,Cancelled,"S/O Ramakrishna 2-123, Panchayeti Street",Panchayeti Road,7382618503,'70424943002,'70424943002,0,250,280,2024-12-31 14:10:23,Satyanarayana
+142,'C1548218,Godi Chitti Babu,గోడి చిట్టి బాబు,Suspended,SC Colony Velagathodu 533340,SC Colony,9963963222,'70424943101,'70424943101,4580,320,3000,2023-10-27 09:55:33,Satyanarayana
+143,'C1738998,Eluri Murali,ఏలూరి మురళి,Active,BC Colony Velagathodu,BC Colony 1,6304756799,'111511118094,'7750137002405030,0,250,250,2025-07-07 11:05:41,Satyanarayana
+144,'C1566340,Morta Devid Raju,మోర్త డేవిడ్ రాజు,Active,"S/O Powlu, 5-130, New Colony Velagathodu",SC Colony,7013007678,'70424926338,'2204756185,0,250,250,2025-07-07 11:03:11,Satyanarayana
+145,'C1653684,Chalapathi Nageswarao,చలపతి నాగేశ్వరరావు,Active,Main Road,Main Road,9491438529,'70531888470,'2221547247,0,250,180,2025-07-08 17:22:45,Satyanarayana
+146,'12423665,Kodi Satyanarayana,కోడి సత్యనారాయణ,Active,Velagathodu,BC Colony 1,7842434977,'111511125070,'7750137002703301,0,250,250,2025-07-07 11:09:24,Satyanarayana
+147,'C2436647,Sade Saran Kumar,సాదే శరణ్ కుమార్,Active,S/O Veerraju 5-225 SC COLONY Velagatodu,SC Colony,8688731318,'AC2003311572,'7750137007675033,60,250,1000,2025-06-29 20:04:08,Satyanarayana
+148,'C1644793,Kantipudi Krishna Murthy,కంటిపుడి కృష్ణమూర్తి,Active,S/O: Kantipudi Ramulu Late 1-16 HIGH SCH,Main Road,9492100229,'70532073031,'2221565703,220,250,280,2025-06-05 16:44:16,Satyanarayana
+149,'C1646629,Talari Ramesh 1,తలారి రమేష్ 1,Active,Velagathodu,SC Colony,9491438529,'70532149856,'2221573385,0,250,820,2025-07-08 17:20:35,Satyanarayana
+150,'C1661769,Kondeti Nagamani,కొండేటి నాగమణి,Active,"5-141, SC Colony Velagathodu",SC Colony,9392344453,'70531919093,'2221550309,0,400,400,2025-07-08 17:18:29,Satyanarayana
+151,'C1687366,Godi Vijaya Babu,గోడీ విజయ బాబు,Cancelled,S/o Yesu 5-244 Velagathodu,SC Colony,7382255504,'70424937327,'2204757284,100,280,280,2023-01-14 19:37:33,Satyanarayana
+152,'11500629,Mulli Harenayudu,ముల్లీ హరేనాయుడు,Active,S/O Kasi 5-31 Velagathodu Velagathodu Ve,Panchayeti Road,7569497824,'111410057206,'7750137001703195,220,250,1000,2025-06-23 09:09:27,Satyanarayana
+153,'C2437769,Bhogilla Bulli Pattabhi,భోగిల్లి బుల్లి పట్టాభి,Suspended,Velagathodu,Panchayeti Road,9494298649,'111410057205,'7750137001703187,640,320,3700,2024-07-13 08:10:29,Satyanarayana
+154,'C1847639,Domala Rajesh,దోమల రాజేశ్,Suspended,S/O 5-136 SC Colony,SC Colony,9505474277,'70424964438,'2204759995,320,320,320,2024-04-05 20:29:25,Satyanarayana
+155,'11599557,Polumati Martha,పొలుమాటి మార్త,Suspended,S/O Polayya 4-27 BC Colony Velagathodu,SC Colony,7660987841,'111511127590,'7750137002716089,440,320,350,2024-07-05 16:24:31,Satyanarayana
+156,'C1884767,VENKATARAO VANKA,వంకా వెంకటరావు,Active,,Panchayeti Road,9492723486,'AC2008320614,'7750137007694646,684.4,222.54,220,2025-06-10 15:53:20,Satyanarayana
+157,'C2188314,Mutyalarao Pithani,పితాని ముత్యాలరావు,Active,Velagathodu,BC Colony 1,9959499538,"'70533022508, 70564323189","'2227034602, 2234227902",250,250,250,2025-06-14 20:30:00,Satyanarayana
+158,'C1917119,NarayanaRao Gunapalli,గుణపల్లి నారాయణరావు,Active,"1-23, Velagathodu",Main Road,9515255763,'70532893396,'2227021691,0,250,250,2025-07-21 15:33:51,Satyanarayana
+159,'C1927975,Matha Veerababu,మత వీరబాబు,Active,"S/O Bapiraju, 5-24, BC COLONY VELAGATHOD",BC Colony 1,9505422499,'AC2001301730,'7750137007363275,0,250,250,2025-07-21 15:38:18,Satyanarayana
+160,'C1583281,Mellimi Veera Venkatarao,మెల్లిమి వీర వెంకటరావు,Active,"5-260, Main Road, Velagathodu",Main Road,9398270285,'70564150442,'2234210628,0,250,250,2025-07-11 21:03:52,Satyanarayana
+161,'C1970148,Suman Talari,తలారి సుమన్,Active,S/O Ramarao 5-227 Velagathodu,SC Colony,9014598181,'70532952549,'2227027606,260,250,300,2025-07-11 20:55:13,Satyanarayana
+162,'12116916,Kurakula Suribabu,కూరాకుల సూరిబాబు,Suspended,5-150 SC Colony Velagathodu,SC Colony,0,'2146436271,'2146436271,0,300,360,2025-06-30 21:16:49,Satyanarayana
+163,'C1992387,Pullayya Pamuluri,పాములూరి పుల్లయ్య,Active,S/O Venkatarao 2-11 Velagathodu,Market Road,6305023971,'70533064534,'2227038805,280,250,300,2025-06-12 22:38:34,Satyanarayana
+164,'C2006118,Sade DoraBabu,సదే దొరబాబు,Cancelled,"5-161, Sc colony, Velagathodu",SC Colony,0,'111410060288,'7750137001674016,430,280,0,,Satyanarayana
+165,'11600571,Podilapu Viswanadham,పోదిలపు విశ్వనాధం,Active,5-69 BC COLONY Velagathodu,BC Colony 1,9908358039,'111511117446,'7750137002388640,250,250,250,2025-06-29 20:05:01,Satyanarayana
+166,'C2035096,Nallamamidi Satyanarayana,నల్లమామిడి సత్యనారాయణ,Active,BC Colony Velagathodu,BC Colony 1,9959862361,'70564295239,'2234225107,250,250,390,2025-06-23 09:07:30,Satyanarayana
+167,'C2076710,Chintapalli Subbarao,ఛిoత్త పల్లి సుబ్బారావు,Active,Velagathodu,BC Colony 1,9491395689,'70564207457,'2234216329,63.64,237.88,200,2025-07-07 11:07:54,Satyanarayana
+168,'C2074985,Polumati Venkatarao,పొలుమాటి వెంకటరావు,Active,Velagathodu,Main Road,9963857922,'70564335258,'2234229109,820,250,310,2025-04-10 20:01:09,Satyanarayana
+169,'11500708,Chalapathi Satyanarayana,చలపతి సత్యనారాయణ,Active,"Main road, Velagathodu",Main Road,8985068918,'111410060289,'7750137001674024,600,250,200,2025-05-23 13:54:30,Satyanarayana
+170,'C2137709,Mutyala Kalyan Gopal Krishna,ముత్యాల కళ్యాణ్ గోపాల్ కృష్ణ,Active,C/O Mutyala Srinivas 3-21 Velagathodu,RiceMill Road,9176646408,'70564085978,'2234204181,0,450,450,2025-07-08 11:57:29,Satyanarayana
+171,'C2187675,Dulapalli Daveedu,దూలపల్లి దేవీడు,Cancelled,5-11 New Colony Velagathodu,BC Colony 1,9676525766,'70564108721,'2234206456,0,320,320,2023-07-10 13:02:16,Satyanarayana
+172,'12577275,Junnu Suryanarayana,జున్ను సూర్యనారాయణ,Active,Velagathodu,Panchayeti Road,0,'2147520846,'2147520846,0,250,200,2025-07-16 05:45:10,Satyanarayana
+173,'12434772,Pidimi Satyavathi,పిడిమి సత్యవతి,Suspended,,SC Colony,0,'111409035622,'7750137001486940,700,250,500,2023-12-31 23:18:43,Satyanarayana
+174,'C2293176,Venkat Rao Bathina,బతిన వెంకట రావు,Active,"5-220,SC COLONY,Velagathodu",SC Colony,9912638221,'70564569047,'2234252488,0,320,640,2024-07-12 09:58:45,Satyanarayana
+175,'11500692,Bathina Satyanarayana,బతిౖన సత్యనారాయణ,Suspended,Sc colony velagathodu,SC Colony,0,'111410060285,'7750137002441399,130,250,600,2025-07-11 20:52:08,Satyanarayana
+176,'C2323703,Sandaramalla Satyanarayana,సందరమల్ల సత్యనారాయణ,Cancelled,Sc colony velagathodu,SC Colony,0,'70564299389,'2234225522,120,320,340,2024-01-16 19:37:06,Satyanarayana
+177,'C2323701,Polimati Kittayya,పోలీమాటి కిట్టయ్య,Active,Sc colony velagathodu,SC Colony,6300953133,'70564494840,'2234245068,250,250,500,2025-06-04 08:41:43,Satyanarayana
+178,'11600427,Maddipati Surya Kumari,మద్దిపాటి సూర్య కుమారి,Active,,Market Road,8074404700,'2204749295,'2204749295,600,400,375,2025-05-16 08:14:55,Satyanarayana
+179,'C2372217,Nimmala Gangaraju,నిమ్మల గంగరాజు,Active,,BC Colony 2,9989508117,'2145777455,'665256741756,200,250,640,2025-06-10 16:04:30,Satyanarayana
+180,'C2372219,Bayareddy Suribabu,బయరెడ్డి సూరి బాబు,Active,,BC Colony 2,9000833826,'2140570694,'2140570694,1300,250,1100,2025-03-11 20:35:23,Satyanarayana
+181,'11600610,Kosuri Satyanarayana,కోసూరి సత్యనారాయణ,Active,,Market Road,0,'111511114691,'7750137002371091,0,250,250,2025-07-11 20:59:34,Satyanarayana
+182,'C2399419,Trimurthulu Reddy,రెడ్డి త్రిమూర్తులు,Suspended,Velagathodu,BC Colony 2,9704067119,'70532135152,'2221571915,740,320,1000,2024-04-01 11:08:21,Satyanarayana
+183,'11599705,Guruvilli Seetamma,గురువిల్లి సీతమ్మ,Active,bc colony,BC Colony 2,0,'111511124433,'7750137002704523,250,250,511.16,2025-06-26 09:18:44,Satyanarayana
+184,'C2404292,Nallamamidi Anjaneyulu,నల్లమామిడి ఆంజనేయులు,Active,,Market Road,9676339927,'70532158204,'2221574220,1180,250,240,2025-06-30 21:30:44,Satyanarayana
+185,'C2423196,Shaik Suman,షైక్ సుమన్,Suspended,7-22 BADAVA PETA VELAGATHODU,BC Colony 2,0,'111511118639,'7750137002410576,960,320,0,,Satyanarayana
+186,'C2468747,Bhimavarapu Sundar Raju,భీమవరపు సుందర్ రాజు,Active,6-45 bc colony velagathodu,BC Colony 1,9494589868,'70594557368,'2254487288,0,250,240,2025-07-11 21:07:43,Satyanarayana
+187,'C2471253,Biradakota Siva Manikanta,బిరదకోట శివ మణికంట,Cancelled,,BC Colony 1,0,'70594568001,'2254488352,0,0,0,,Satyanarayana
+188,'C2484449,Godi Srinu,గోడీ శ్రీను,Active,,SC Colony,7386008336,'70594797147,'2264472738,290,250,500,2025-06-11 13:31:59,Satyanarayana
+189,'C2501613,Venkanna Biradakota,బిరదకోట వెంకన్న,Active,"5-62, bc colony, velagathodu",BC Colony 2,9704492914,'70533073832,'2227039735,500,250,320,2025-05-16 19:27:40,Satyanarayana
+190,'C2495267,Hymavathi Bojjala,బొజ్జల హైమవతి,Active,,BC Colony 2,7702073589,'70563949877,'2234190571,1520,250,2500,2025-03-04 08:26:13,Satyanarayana
+191,'C2504301,RAMANA SAPPA,సప్పా రమణ (ప్రసాద్),Active,,BC Colony 2,8008239496,'2140571557,'2140571557,310,250,330,2025-04-07 19:36:17,Satyanarayana
+192,'12541935,Pasupuleti Apparao,పసుపులేటి అప్పారావు,Active,5-85 BC COLONY Velagathodu,BC Colony 1,9494589868,'70594673637,'ACT230900061753,0,250,250,2025-07-10 18:37:10,Satyanarayana
+193,'C2576842,Shaik Adamshafi,షైక్ అదమ్ షఫీ,Suspended,Velagathodu,Panchayeti Road,7382036805,'70594689237,'2254500475,20,320,100,2025-06-23 09:10:05,Satyanarayana
+194,'C2591545,Kuppela Buchchemma,కుప్పెల బుచ్చెమ్మ,Suspended,501 BC COLONY VELAGATHODU,BC Colony 2,9493655210,'70594689625,'2254500514,0,237.88,200,2025-03-04 08:05:47,Satyanarayana
+195,'C2590507,Bangari Dalayi,బంగారి దలాయి,Active,"1-38, High School Road, Velagathodu",Main Road,9949162959,'70594689070,'2254500459,0,250,250,2025-07-07 11:12:44,Satyanarayana
+196,'C1866913,Rajani Radha Krishna,రాజని రాధ కృష్ణ,Suspended,Velagathodu,Market Road,7337493371,'2146914138,'2146914138,710,250,500,2025-04-05 21:44:37,Satyanarayana
+197,'C2620315,Apparao Pandranki,పాండ్రంకి అప్పారావు,Suspended,S/O: Polayya 1-44 Velagathodu,Panchayeti Road,9491438529,'70594674635,'2254499015,0,320,320,2025-05-29 14:56:19,Satyanarayana
+198,'C2667227,Kusumanchi Vijayalakshmi,కూసుమంచి విజయలక్ష్మి,Active,"W/O Subbarao, 2-41, peda veedhi, Velagat",Panchayeti Road,0,'70594743695,'2264467393,250,250,530,2025-06-10 10:32:02,Satyanarayana
+199,'11599611,Polimati Suribabu,పొలిమాటి సూరిబాబు,Active,Velagathodu,SC Colony,9491487086,'111511114683,'7750137002371018,500,250,280,2025-06-30 21:15:51,Satyanarayana
+200,'C2674633,Sanapathi Appalanaidu,శనపతి అప్పలనాయుడు,Active,S/o: Narasayya 5-38 BC Colony Velagathod,BC Colony 2,9676524598,'2140570696,'2140570696,0,250,250,2025-07-07 11:06:11,Satyanarayana
+201,'C2631469,Ryali Sailaja,రాలి శైలజ,Active,W/O Sriramulu 1-29 Velagathodu,Main Road,7382330326,'70594697628,'2254501314,50,250,200,2025-07-11 21:05:05,Satyanarayana
+202,'C2691553,Sattivada Narayana,సత్తివాడ నారాయణ,Active,5-94 Cheruvu Gattu Street Velagathodu,Panchayeti Road,8639628882,'70594697115,'2254501263,250,250,570,2025-06-23 09:10:28,Satyanarayana
+203,'C2708462,Satyavada Ramu,సత్యవాడ రాము,Active,Velagathodu,BC Colony 2,8125322688,'70564197435,'2234215327,840,250,300,2025-04-07 19:59:39,Satyanarayana
+204,'C2713271,Gurre Ravi Kumar,గుర్రె రవి కుమార్,Suspended,Velagathodu,SC Colony,9502927408,'8333003BE18D,'00008333003BE18D,320,250,0,2025-03-31 23:11:53,Satyanarayana
+205,'C2752519,Vijay Kumar Mortha,మొర్త విజయ్ కుమార్,Active,5-200 SC COLONY VELAGATHODU,SC Colony,,'2062807178,'2062807178,250,250,570,2025-06-11 11:56:22,Satyanarayana
+206,'C2791315,Duvva Naresh,,Active,5-55 Velagathodu,BC Colony 1,8332029555,' 8333003C7816,' 00008333003C7816,380,250,0,,Satyanarayana
